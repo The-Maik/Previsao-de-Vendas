@@ -17,7 +17,7 @@ Para resolver este problema, utilizamos um modelo de **Regressão com `RandomFor
 O dataset utilizado para o treinamento foi gerado sinteticamente (`src/generate_data.py`). Ele simula três anos de vendas diárias, incorporando padrões de tendência de crescimento, sazonalidade semanal (picos nos fins de semana), sazonalidade anual (picos em datas comemorativas) e o impacto de promoções aleatórias.
 
 ## Como reproduzir
-```bash
+
 # 1. Clone o repositório
 git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
 cd nome-do-repo
@@ -41,3 +41,5 @@ O modelo treinado alcançou um Erro Médio Absoluto (MAE) de R$ 164.42 e um Root
 
 ### Gráfico de Resíduos: A distribuição aleatória dos erros em torno da linha zero mostra que o modelo não possui viés sistemático.
 ![Gráfico de Resíduos](reports/figures/residuos_plot.png)
+
+```bash
