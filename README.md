@@ -16,7 +16,14 @@ Para resolver este problema, utilizamos um modelo de **Regressão com `RandomFor
 ## Dados
 O dataset utilizado para o treinamento foi gerado sinteticamente (`src/generate_data.py`). Ele simula três anos de vendas diárias, incorporando padrões de tendência de crescimento, sazonalidade semanal (picos nos fins de semana), sazonalidade anual (picos em datas comemorativas) e o impacto de promoções aleatórias.
 
+## 🚀 Aplicação Online
+O projeto está disponível para teste em tempo real no seguinte link:
+
+**[Acessar o Previsor de Vendas Online](https://the-maik-previsao-de-vendas-app-n0xkos.streamlit.app/)**
+
 ## Como reproduzir
+
+# É possivel acessar o diretorio
 
 # 1. Clone o repositório
 git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
