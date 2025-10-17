@@ -2,7 +2,8 @@
 
 ## Equipe
 - Nome: Maycon Rodrigues Da Silva — RA: 2224200446
-- Nome: Karolina de Jesus Souza — RA: 2217202167git add .
+- Nome: Karolina de Jesus Souza — RA: 2217202167
+
 Turma: 41- SA | Curso: Ciência da Computação | Período: Noturno | Ano: 2025
 
 ## Problema
