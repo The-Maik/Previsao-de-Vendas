@@ -32,12 +32,12 @@ pip install -r requirements.txt
 # 4. Execute a aplicação web
 streamlit run app.py
 
-Resultados do Projeto
+## Resultados do Projeto
 
 O modelo treinado alcançou um Erro Médio Absoluto (MAE) de R$ 164.42 e um Root Mean Squared Error (RMSE) de R$ 269.07 no conjunto de teste. Os gráficos abaixo confirmam a boa performance do modelo.
 
-Valores Reais vs. Previsões: A nuvem de pontos alinhada à linha vermelha indica alta precisão nas previsões.
+### Valores Reais vs. Previsões: A nuvem de pontos alinhada à linha vermelha indica alta precisão nas previsões.
 ![Gráfico de Reais vs. Previsões](reports/figures/reais_vs_previsoes.png)
 
-Gráfico de Resíduos: A distribuição aleatória dos erros em torno da linha zero mostra que o modelo não possui viés sistemático.
+### Gráfico de Resíduos: A distribuição aleatória dos erros em torno da linha zero mostra que o modelo não possui viés sistemático.
 ![Gráfico de Resíduos](reports/figures/residuos_plot.png)
